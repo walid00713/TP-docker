@@ -31,13 +31,13 @@ Se familiariser avec Docker : installation, manipulation de conteneurs, créatio
 - Vérification de l’accès à la page web par navigateur.
 - Arrêt et suppression du conteneur.
 
-### 4. Déploiement d’une application Python Flask
+### 4. Déploiement d’une application Python Flask (Branche execice5)
 - Création d’une application Flask minimaliste (`app.py`).
 - Écriture d’un `Dockerfile` pour construire l’image.
 - Construction et lancement de l’image de l’application.
 - Vérification du bon fonctionnement via navigateur.
 
-### 5. Utilisation de Docker Compose
+### 5. Utilisation de Docker Compose (Branche main)
 - Modification de l’application Flask pour ajouter une connexion à MongoDB.
 - Création d’un fichier `docker-compose.yml` pour lancer **Flask + MongoDB**.
 - Lancement du `docker-compose`.
